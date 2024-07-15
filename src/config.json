@@ -1,0 +1,6 @@
+{
+  "MODE": "back",
+  "PATH": "p:1,s:0",
+  "SAMPLE_TIME": 20,
+  "SQLITE_FILE_NAME": "database.db"
+}

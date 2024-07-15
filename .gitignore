@@ -1,0 +1,29 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+
+# IDE
+.vscode
+
+# database
+*.db
+*.npy
+
+# pytest, pytest-cov
+.pytest_cache/
+.coverage
+cov_html/
+
+# nuitka
+*.build/
+*.dist/
+
+# log
+*.log
